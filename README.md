@@ -1,0 +1,2 @@
+# MrD
+Script Python DDOS
