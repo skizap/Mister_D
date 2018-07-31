@@ -3055,9 +3055,9 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'GHOST CYBER ATTACK _/\_'
-	print 'GARUDA CYBER TEAM _/\_'
-	print 'BLACK CYBER TEAM _/\_'
+	print 'NICROBER CYBER TEAM _/\_'
+	print 'DRAGON CYBER ARMY _/\_'
+	print 'SUNDA CYBER ARMY _/\_'
 	print 'To use windows : mister duce.py <url> '
 	print 'To use Linux   : python mister duce.py <url> '
 	print "\a"
@@ -3065,17 +3065,17 @@ def usage():
 print \
 """                        .
 
- /$$      /$$  /$$$$$$$	      		     /$$$$$$\
-| $$$    /$$$ | $$     $$				| $$    $$ 
+ /$$      /$$  /$$$$$$$	      		 /$$$$$$\
+| $$$    /$$$ | $$     $$	        | $$    $$ 
 | $$$$  /$$$$ | $$     $$  /----------\ | $$    $$
 | $$ $$/$$ $$ | $$$$$$$$/  | MISTER-D | | $$    $$                      
 | $$  $$$| $$ | $$___  $$  \__________/ | $$    $$                  
-| $$\  $ | $$ | $$   \ $$       		| $$    $$ 
-| $$ \/  | $$ | $$   | $$         		| $$$$$$ /
-|__/     |__/ |__/   |__/				|_______/
+| $$\  $ | $$ | $$   \ $$       	| $$    $$ 
+| $$ \/  | $$ | $$   | $$         	| $$$$$$ /
+|__/     |__/ |__/   |__/		|_______/
                                                            
-_____________________________ [KALI-LINUX]_______________________
-      _______________________ GARUDA CYBER TEAM MISTER_D____________________
+_____________________________ [WINDOWS AND KALI-LINUX]_______________________
+      _______________________ DRAGON CYBER ARMY MISTER_D____________________
 
 TANGAN KOSONG 
 MAKAN KEDONGDONG
