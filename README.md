@@ -1,10 +1,10 @@
 Simpe Script Ddos Python Work !
 
 WINDOWS 
-python misterd1.py
-python misterd1.py site
+python namascript.py
+python namascript.py site
 
 LINUX 
-chmod +x misterd1.py
-python misterd1.py
-python misterd1.py site
+chmod +x namascript.py
+python namascript.py
+python namascript.py site
