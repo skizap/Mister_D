@@ -17,7 +17,7 @@ import re
 
 #global params                                                                                       
 url=''                                                                                              ###############################
-host=''                                                                                             #~~~~Created By Sabun_Cyber~~~~#
+host=''                                                                                             #~~~~Created By Sunda Cyber Army~~~~#
 headers_useragents=[]                                                                               
 headers_referers=[]                                                                                 
 request_counter=0                                                                                   
@@ -62,7 +62,7 @@ def referer_list():
 	headers_referers.append('http://www.google.com/?q=')                                       #Infected's Websites       #
 	headers_referers.append('http://www.usatoday.com/search/results?q=')                       #Best's Shells Only        #
 	headers_referers.append('http://engadget.search.aol.com/search?q=')                        #All uploaded by			  #
-	headers_referers.append('http://www.bing.com/search?q=')                                   #From MISTER_D 		      #
+	headers_referers.append('http://www.bing.com/search?q=')                                   #From MISTER_D 	      #
 	headers_referers.append('http://search.yahoo.com/search?p=')                               ############################
 	headers_referers.append('http://www.ask.com/web?q=')
 	headers_referers.append('http://search.lycos.com/web/?q=')
